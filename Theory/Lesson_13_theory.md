@@ -6,6 +6,6 @@
 
 [Maven download](https://maven.apache.org/download.cgi)
 
-Команда для запуска
+Команда для запуска maven через консоль
 
 **mvn clean test -Dsurefire.suiteXmlFiles=src/test/resources/`filename`.xml**
