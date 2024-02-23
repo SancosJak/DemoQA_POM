@@ -39,7 +39,7 @@
 
 [jenkins.exe download](https://www.jenkins.io/download/)
 
-cmd from Tools jenkins server start java -jar jenkins.war
+cmd from Tools jenkins server: start java -jar jenkins.war
 configure test with report its a root to files: build/test-results/*/*.xml
 start task: clean qa1 -Psuite1
 
